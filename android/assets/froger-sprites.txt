@@ -1,0 +1,61 @@
+froger-sprites.png
+size: 117, 104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frog-back-jump
+  rotate: true
+  xy: 36, 1
+  size: 34, 46
+  orig: 60, 60
+  offset: 11, 10
+  index: -1
+frog-back-sit
+  rotate: true
+  xy: 84, 35
+  size: 40, 31
+  orig: 60, 60
+  offset: 10, 13
+  index: -1
+frog-front-jump
+  rotate: true
+  xy: 36, 37
+  size: 38, 37
+  orig: 80, 80
+  offset: 18, 22
+  index: -1
+frog-front-sit
+  rotate: false
+  xy: 84, 1
+  size: 32, 32
+  orig: 60, 60
+  offset: 12, 15
+  index: -1
+frog-left-jump
+  rotate: true
+  xy: 1, 1
+  size: 49, 33
+  orig: 60, 60
+  offset: 3, 13
+  index: -1
+frog-left-sit
+  rotate: false
+  xy: 36, 77
+  size: 35, 26
+  orig: 60, 60
+  offset: 13, 16
+  index: -1
+frog-right-jump
+  rotate: true
+  xy: 1, 52
+  size: 49, 33
+  orig: 60, 60
+  offset: 3, 15
+  index: -1
+frog-right-sit
+  rotate: false
+  xy: 73, 77
+  size: 35, 26
+  orig: 60, 60
+  offset: 14, 17
+  index: -1
